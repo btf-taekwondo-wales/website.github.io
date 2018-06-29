@@ -1,0 +1,230 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc16               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc17               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc18               { /* Common */
+	border          :   0.00pt none #ffffff;
+	clip            : rect(0.00pt,6.00pt,6.00pt,0.00pt);
+	}
+.cc19               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc20               { /* Common */
+	font            : 8pt 'Calibri';
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc21               { /* Common */
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	color           : #e0e0e0;
+	}
+img#e26             { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            :  81.75pt;
+	top             :   2.25pt;
+	width           : 744.75pt;
+	height          : 844.50pt;
+	}
+span#e25            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team002004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  93.75pt;
+	top             : 297.00pt;
+	width           : 214.50pt;
+	height          :  30.00pt;
+	}
+span#e24            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team002003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  88.50pt;
+	top             : 630.00pt;
+	width           : 732.75pt;
+	height          : 215.25pt;
+	}
+div#e23             { /* Club Links: */
+	position        : absolute;
+	left            : 106.50pt;
+	top             : 649.50pt;
+	width           : 231.00pt;
+	height          :  13.50pt;
+	}
+span#e22            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001017.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  96.00pt;
+	top             : 651.75pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+div#e21             { /* BRITISH TAEKWON-DO FEDER... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 668.25pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e20             { /* WALESTKD */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 687.00pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e19             { /* VALLEY TAEKWON-DO CLUBS */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 705.75pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e18             { /* TAEKWON-DO ARC */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 724.50pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e17             { /* SILVERDRAGON TAEKWONDO C... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 743.25pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e16             { /* INTERNATIONAL TAEKWOND-D... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 762.00pt;
+	width           : 279.00pt;
+	height          :  15.75pt;
+	}
+div#e15             { /* BRITISH TAEKWON-DO COUNC... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 780.75pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e14             { /* Website Tab Link: */
+	position        : absolute;
+	left            : 406.50pt;
+	top             : 649.50pt;
+	width           : 231.00pt;
+	height          :  13.50pt;
+	}
+span#e13            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001016.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 396.00pt;
+	top             : 651.75pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+div#e12             { /* Home Page */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 668.25pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e11             { /* Events */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 687.00pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e10             { /* Coaches */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 705.75pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e9              { /* Contact Us */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 724.50pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e8              { /* Student Info.  */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 743.25pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e7              { /* © copyright 2018 British... */
+	position        : absolute;
+	left            :  94.50pt;
+	top             : 825.75pt;
+	width           : 721.50pt;
+	height          :  12.00pt;
+	}
+div#e6              { /* HOME */
+	position        : absolute;
+	left            :  96.75pt;
+	top             : 277.50pt;
+	width           :  44.25pt;
+	height          :  14.25pt;
+	}
+div#e5              { /* EVENTS  */
+	position        : absolute;
+	left            : 156.00pt;
+	top             : 277.50pt;
+	width           :  44.25pt;
+	height          :  14.25pt;
+	}
+div#e4              { /* COACHES */
+	position        : absolute;
+	left            : 225.75pt;
+	top             : 277.50pt;
+	width           :  57.75pt;
+	height          :  12.75pt;
+	}
+div#e3              { /* CONTACT US */
+	position        : absolute;
+	left            : 303.75pt;
+	top             : 277.50pt;
+	width           :  78.00pt;
+	height          :  14.25pt;
+	}
+div#e2              { /* STUDENT INFO. */
+	position        : absolute;
+	left            : 387.75pt;
+	top             : 277.50pt;
+	width           :  78.00pt;
+	height          :  14.25pt;
+	}
+div#e1              { /* GALLERY */
+	position        : absolute;
+	left            : 474.00pt;
+	top             : 277.50pt;
+	width           :  78.00pt;
+	height          :  13.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #808080;
+	position        : relative;
+	width           : 900.00pt;
+	height          :1087.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #808080;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
