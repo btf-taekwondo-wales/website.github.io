@@ -1,0 +1,434 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc22               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc23               { /* Common */
+	clip            : rect(0.00pt,19.50pt,15.75pt,0.00pt);
+	}
+.cc24               { /* Common */
+	clip            : rect(0.00pt,16.50pt,17.25pt,0.00pt);
+	}
+.cc25               { /* Common */
+	clip            : rect(0.00pt,17.25pt,17.25pt,0.00pt);
+	}
+.cc26               { /* Common */
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	color           : #404040;
+	}
+.cc27               { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,6.00pt,6.00pt,0.00pt);
+	}
+.cc28               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc29               { /* Common */
+	border          :   0.00pt none #ffffff;
+	clip            : rect(0.00pt,6.00pt,6.00pt,0.00pt);
+	}
+.cc30               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc31               { /* Common */
+	font            : 8pt 'Calibri';
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc32               { /* Common */
+	font            : 12pt 'Calibri';
+	color           : #0000ff;
+	}
+.cc33               { /* Common */
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	color           : #e0e0e0;
+	}
+img#e51             { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            :  81.75pt;
+	top             :   2.25pt;
+	width           : 744.75pt;
+	height          : 954.75pt;
+	}
+span#e50            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 536.25pt;
+	top             : 330.00pt;
+	width           :  19.50pt;
+	height          :  15.75pt;
+	}
+span#e49            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 536.25pt;
+	top             : 346.50pt;
+	width           :  16.50pt;
+	height          :  17.25pt;
+	}
+span#e48            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 536.25pt;
+	top             : 383.25pt;
+	width           :  19.50pt;
+	height          :  15.75pt;
+	}
+span#e47            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 536.25pt;
+	top             : 405.00pt;
+	width           :  19.50pt;
+	height          :  15.75pt;
+	}
+span#e46            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 536.25pt;
+	top             : 420.75pt;
+	width           :  17.25pt;
+	height          :  17.25pt;
+	}
+span#e45            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team003014.gif) no-repeat top left;
+	position        : absolute;
+	left            : 527.25pt;
+	top             : 465.00pt;
+	width           : 280.50pt;
+	height          :  24.00pt;
+	}
+div#e44             { /* BTF British TKD Champion... */
+	position        : absolute;
+	left            : 543.00pt;
+	top             : 470.25pt;
+	width           : 231.75pt;
+	height          :  15.75pt;
+	}
+span#e43            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team003013.gif) no-repeat top left;
+	position        : absolute;
+	left            : 527.25pt;
+	top             : 488.25pt;
+	width           : 280.50pt;
+	height          : 155.25pt;
+	}
+span#e42            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team003012.gif) no-repeat top left;
+	position        : absolute;
+	left            : 532.50pt;
+	top             : 472.50pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+div#e41             {
+	position        : absolute;
+	left            : 528.00pt;
+	top             : 487.50pt;
+	width           : 279.75pt;
+	height          : 150.75pt;
+	}
+div#e40             {
+	position        : absolute;
+	left            :  99.75pt;
+	top             : 420.75pt;
+	width           : 394.50pt;
+	height          : 289.50pt;
+	}
+span#e39            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team002005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  88.50pt;
+	top             : 739.50pt;
+	width           : 732.75pt;
+	height          : 215.25pt;
+	}
+div#e38             { /* Club Links: */
+	position        : absolute;
+	left            : 106.50pt;
+	top             : 759.00pt;
+	width           : 231.00pt;
+	height          :  13.50pt;
+	}
+span#e37            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001019.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  96.00pt;
+	top             : 761.25pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+div#e36             { /* BRITISH TAEKWON-DO FEDER... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 777.75pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e35             { /* WALESTKD */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 796.50pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e34             { /* VALLEY TAEKWON-DO CLUBS */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 815.25pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e33             { /* TAEKWON-DO ARC */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 834.00pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e32             { /* SILVERDRAGON TAEKWONDO C... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 852.75pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e31             { /* INTERNATIONAL TAEKWOND-D... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 871.50pt;
+	width           : 279.00pt;
+	height          :  15.75pt;
+	}
+div#e30             { /* BRITISH TAEKWON-DO COUNC... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 890.25pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e29             { /* Website Tab Link: */
+	position        : absolute;
+	left            : 406.50pt;
+	top             : 759.00pt;
+	width           : 231.00pt;
+	height          :  13.50pt;
+	}
+span#e28            { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001018.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 396.00pt;
+	top             : 761.25pt;
+	width           :   6.00pt;
+	height          :   6.00pt;
+	}
+div#e27             { /* Home Page */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 777.75pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e26             { /* Events */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 796.50pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e25             { /* Coaches */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 815.25pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e24             { /* Contact Us */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 834.00pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e23             { /* Student Info.  */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 852.75pt;
+	width           : 191.25pt;
+	height          :  16.50pt;
+	}
+div#e22             { /* © copyright 2018 British... */
+	position        : absolute;
+	left            :  94.50pt;
+	top             : 935.25pt;
+	width           : 721.50pt;
+	height          :  12.00pt;
+	}
+div#e21             { /* BRITISH TAEKWON-DO FEDER... */
+	position        : absolute;
+	left            : 564.00pt;
+	top             : 330.00pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e20             { /* WALESTKD */
+	position        : absolute;
+	left            : 564.00pt;
+	top             : 348.75pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e19             { /* VALLEY TAEKWON-DO CLUBS */
+	position        : absolute;
+	left            : 564.00pt;
+	top             : 367.50pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e18             { /* TAEKWON-DO ARC */
+	position        : absolute;
+	left            : 564.00pt;
+	top             : 386.25pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+div#e17             { /* SILVERDRAGON TAEKWONDO C... */
+	position        : absolute;
+	left            : 564.00pt;
+	top             : 405.00pt;
+	width           : 191.25pt;
+	height          :  15.75pt;
+	}
+img#e16             { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 328.50pt;
+	width           : 270.00pt;
+	height          :  16.50pt;
+	}
+img#e15             { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 347.25pt;
+	width           : 270.00pt;
+	height          :  16.50pt;
+	}
+img#e14             { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 366.00pt;
+	width           : 270.00pt;
+	height          :  16.50pt;
+	}
+img#e13             { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 384.75pt;
+	width           : 270.00pt;
+	height          :  16.50pt;
+	}
+img#e12             { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 403.50pt;
+	width           : 270.00pt;
+	height          :  16.50pt;
+	}
+img#e11             { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 441.75pt;
+	width           : 270.00pt;
+	height          :  16.50pt;
+	}
+div#e10             { /* INTERNATIONAL TAEKWOND-D... */
+	position        : absolute;
+	left            : 564.00pt;
+	top             : 423.75pt;
+	width           : 279.00pt;
+	height          :  15.00pt;
+	}
+img#e9              { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 422.25pt;
+	width           : 270.00pt;
+	height          :  16.50pt;
+	}
+div#e8              { /* HOME */
+	position        : absolute;
+	left            :  96.75pt;
+	top             : 277.50pt;
+	width           :  44.25pt;
+	height          :  14.25pt;
+	}
+div#e7              { /* EVENTS  */
+	position        : absolute;
+	left            : 156.00pt;
+	top             : 277.50pt;
+	width           :  44.25pt;
+	height          :  14.25pt;
+	}
+div#e6              { /* COACHES */
+	position        : absolute;
+	left            : 225.75pt;
+	top             : 277.50pt;
+	width           :  57.75pt;
+	height          :  12.75pt;
+	}
+div#e5              { /* CONTACT US */
+	position        : absolute;
+	left            : 303.75pt;
+	top             : 277.50pt;
+	width           :  78.00pt;
+	height          :  14.25pt;
+	}
+div#e4              { /* STUDENT INFO. */
+	position        : absolute;
+	left            : 387.75pt;
+	top             : 277.50pt;
+	width           :  78.00pt;
+	height          :  14.25pt;
+	}
+div#e3              { /* GALLERY */
+	position        : absolute;
+	left            : 474.00pt;
+	top             : 277.50pt;
+	width           :  78.00pt;
+	height          :  13.50pt;
+	}
+img#e2              { /* additionsl_btf_wales_tea... */
+	position        : absolute;
+	left            :   2.25pt;
+	top             : 274.50pt;
+	width           :  78.00pt;
+	height          : 147.00pt;
+	}
+span#e1             { /* additionsl_btf_wales_tea... */
+	background      : transparent url(additionsl_btf_wales_team001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   2.25pt;
+	top             : 425.25pt;
+	width           :  78.00pt;
+	height          : 143.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #808080;
+	position        : relative;
+	width           : 900.00pt;
+	height          :1125.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #808080;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
